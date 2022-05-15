@@ -1,1 +1,17 @@
-users = '[{"username":"liz","password":"123456"}, {"username":"ana","password":"123456"}]';
+[
+  {
+    "username": "liz",
+    "password": "123456"
+  
+  },
+  {
+    "username": "ana",
+    "password": "123456"
+    
+  },
+  {
+   "username": "ana",
+    "password": "123456"
+    
+  }
+]
